@@ -1,0 +1,1 @@
+This is a Windows-specific console implementation of the classic Snake game, demonstrating the use of a queue data structure for the snake.
